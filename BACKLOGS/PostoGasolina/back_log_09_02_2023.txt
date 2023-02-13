@@ -26,3 +26,4 @@ requisitos não funcionais/requisitos do sistema:
 -sistema que seja escalável caso necessário
 -sistema que seja fácil e rápido para fazer manuntenção
 -sistema que seja fácil do funcionário usar.
+
